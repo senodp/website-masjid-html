@@ -490,3 +490,15 @@ h6,
         margin-bottom: -75px;
     }
 }
+
+#poster-modal .modal-img{
+    width: 100%;
+}
+
+.team-img img{
+    cursor: pointer;
+}
+
+.detail-img img{
+    cursor: pointer;
+}
