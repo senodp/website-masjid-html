@@ -150,6 +150,10 @@ h6,
     color: #FFFFFF;
 }
 
+.navbar-dark .navbar-brand h2 {
+    color: #FFFFFF;
+}
+
 .navbar-dark .navbar-toggler {
     color: var(--primary) !important;
     border-color: var(--primary) !important;
@@ -211,6 +215,10 @@ h6,
 
     .sticky-top.navbar-dark .navbar-brand h1 {
         color: var(--primary);
+    }
+
+    .sticky-top.navbar-dark .navbar-brand h2 {
+        color: var(--dark);
     }
 }
 
